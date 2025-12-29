@@ -1,4 +1,24 @@
-## Hi there 👋
+## Hi, I'm Muntasir 👋
+
+I'm an Enterprise Analytics professional with 9+ years of experience, specializing in Power BI, DAX, and business-focused analytics.
+
+## What I do
+- Sales & Revenue Analytics
+- Finance & Margin Reporting
+- Approval & SLA Workflow Analytics
+- Data Modeling & Performance Optimization
+
+## Tools
+Power BI | DAX | Power Query
+
+## Portfolio
+<!--
+- Sales Performance Dashboard
+- Finance and Margin Reporting
+- Approval and SLA Analytics
+-->
+
+Reach me on LinkedIn: https://www.linkedin.com/in/muntasir-abu-roumi
 
 <!--
 **msroumi/msroumi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
